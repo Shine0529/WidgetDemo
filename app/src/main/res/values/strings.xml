@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WidgetDemo</string>
+    <string name="appwidget_text">就占一个坑</string>
+    <string name="add_widget">Add widget</string>
+</resources>
